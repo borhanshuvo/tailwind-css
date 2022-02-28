@@ -23,7 +23,7 @@ const App = () => {
     //     </div>
     //   </div>
     // </section>
-    <div className="bg-white">
+    <div>
       <Home />
     </div>
   );
