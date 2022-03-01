@@ -23,7 +23,7 @@ const App = () => {
     //     </div>
     //   </div>
     // </section>
-    <div>
+    <div className="my-5">
       <Home />
     </div>
   );
